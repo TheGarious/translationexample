@@ -2,8 +2,6 @@ file.ext:
     Union of Soviet Socialist Republics: Union of Soviet Socialist Republics
 article: 
     label: 
-        title: TATA
-        keyword: Mots clés
         content: Contenu
         url: Url
         action: Action
