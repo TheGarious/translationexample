@@ -3,5 +3,3 @@ file.ext:
 article: 
     label: 
         content: Contenu
-        url: Url
-        action: Action
